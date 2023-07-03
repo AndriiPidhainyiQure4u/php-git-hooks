@@ -1,5 +1,5 @@
 {
-    "name": "bruli/php-git-hooks",
+    "name": "andriipidhainyi/php-git-hooks",
     "description": "Git hooks for PHP projects.",
     "license": "MIT",
     "keywords": [
@@ -9,8 +9,8 @@
     ],
     "authors": [
         {
-            "name": "Pablo Braulio",
-            "email": "brulics@gmail.com"
+            "name": "Andrii Pidhainyi",
+            "email": "andriipidhainyi@gmail.com"
         }
     ],
     "type": "library",
