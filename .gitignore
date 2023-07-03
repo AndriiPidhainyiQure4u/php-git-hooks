@@ -20,3 +20,8 @@ var/logs
 /phpunit.xml
 ###< phpunit/phpunit ###
 /.php_cs.dist
+
+###> squizlabs/php_codesniffer ###
+/.phpcs-cache
+/phpcs.xml
+###< squizlabs/php_codesniffer ###
